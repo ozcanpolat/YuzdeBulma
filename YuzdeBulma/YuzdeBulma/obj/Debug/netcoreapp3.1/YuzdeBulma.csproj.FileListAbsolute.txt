@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\bin\Debug\netcoreapp3.1\YuzdeBulma.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\bin\Debug\netcoreapp3.1\YuzdeBulma.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\bin\Debug\netcoreapp3.1\YuzdeBulma.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\bin\Debug\netcoreapp3.1\YuzdeBulma.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\bin\Debug\netcoreapp3.1\YuzdeBulma.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\bin\Debug\netcoreapp3.1\YuzdeBulma.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\YuzdeBulma\YuzdeBulma\obj\Debug\netcoreapp3.1\YuzdeBulma.genruntimeconfig.cache
